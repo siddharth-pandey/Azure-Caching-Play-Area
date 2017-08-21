@@ -1,0 +1,12 @@
+﻿@using AzureRedisPlayArea.Models
+@{
+    ViewData["Title"] = "Home Page";
+    Audit audit = ViewData["Audit"] as Audit;
+}
+
+<h4>Last Audit Name: @audit.Name updated at @audit.LastUpdated </h4>
+
+
+<h4>Date & time: @ViewData["DateTime"]</h4>
+
+

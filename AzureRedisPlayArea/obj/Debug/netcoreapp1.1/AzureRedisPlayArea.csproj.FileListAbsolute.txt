@@ -1,0 +1,9 @@
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\bin\Debug\netcoreapp1.1\AzureRedisPlayArea.deps.json
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\bin\Debug\netcoreapp1.1\AzureRedisPlayArea.runtimeconfig.json
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\bin\Debug\netcoreapp1.1\AzureRedisPlayArea.runtimeconfig.dev.json
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\bin\Debug\netcoreapp1.1\AzureRedisPlayArea.dll
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\bin\Debug\netcoreapp1.1\AzureRedisPlayArea.pdb
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\obj\Debug\netcoreapp1.1\AzureRedisPlayArea.csprojResolveAssemblyReference.cache
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\obj\Debug\netcoreapp1.1\AzureRedisPlayArea.AssemblyInfo.cs
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\obj\Debug\netcoreapp1.1\AzureRedisPlayArea.dll
+C:\Users\Sid\Documents\GitHub\AzureCachingPlayArea\AzureRedisPlayArea\obj\Debug\netcoreapp1.1\AzureRedisPlayArea.pdb
